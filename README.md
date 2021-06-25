@@ -10,13 +10,13 @@ This is WebRTC framework in XCFramework format for iOS and macOS.
 
 Requires Swift 5.3 / Xcode 12+.
 
-Add WebRTC repository https://github.com/phanikavi/WebRTC.git via Swift Package Manager  
+Add this repository https://github.com/ATOS-VIRTUAL-CARE/WebRTC.git via Swift Package Manager  
 
 Alternatively, to integrate via a Package.swift manifest instead of Xcode, you can add WebRTC to your dependencies array of your package with
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/phanikavi/WebRTC.git", .upToNextMajor(from: "90.0.0"))
+    .package(url: "https://github.com/ATOS-VIRTUAL-CARE/WebRTC.git", .upToNextMajor(from: "90.0.0"))
 ]
 ```
 
